@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -25,13 +25,13 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+  # tag = "PyconIndia"
+  # category = "Extended"
+  # publication_type = ""
+  # author = ""
+  # exclude_featured = false
+  # exclude_past = false
+  # exclude_future = false
     
 [design]
   # Toggle between the various page layout types.

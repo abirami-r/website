@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -22,30 +22,50 @@ date_format = "Jan 2006"
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  url = "https://www.coursera.org/learn/neural-networks-deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/9SUNGW4CPUX7?utm_source=linkutm_campaign=copybutton_certificate"
+  date_start = "2019-05-31"
   date_end = ""
   description = ""
 
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "CS198.2x: Blockchain Technology"
+  url = "https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.2x+3T2018/course/"
+  certificate_url = "https://courses.edx.org/certificates/0eccd15ebffd48608ac49cdb7258b05f"
+  date_start = "2019-07-29"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Industrial IoT on Google Cloud Platform"
+  url = "https://www.coursera.org/learn/iiot-google-cloud-platform"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/CASM362TNW5Q"
+  date_start = "2019-10-23"
+  date_end = ""
+  description = ""
+
+  [[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "CS50: CS50's Introduction to Computer Science"
+  url = "https://www.edx.org/course/cs50s-introduction-to-computer-science"
+  certificate_url = "https://courses.edx.org/certificates/fedbb3c8165d49aba4614251b3ce90bc"
+  date_start = "2020-01-02"
+  date_end = ""
+  description = ""
+
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Exploring ​and ​Preparing ​your ​Data with BigQuery"
+  url = "https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery"
+  certificate_url = "http://coursera.org/verify/5FAGXFLCZDZ5"
+  date_start = "2020-02-14"
+  date_end = ""
   description = ""
 
 +++

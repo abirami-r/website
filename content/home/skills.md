@@ -14,23 +14,42 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+  
 [[feature]]
-  icon = "r-project"
+  icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Microcontrollers"
+  description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "satellite"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Telecommunication"
+  description = ""
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "plug"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Electrical Technology"
+  description = ""
+
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Verilog HDL, Assembly"
+  description = ""
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Python, HTML, CSS, JS"
+  description = ""
+
+[[feature]]
+  icon = "charging-station"
+  icon_pack = "fas"
+  name = "Renewable Energy"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
